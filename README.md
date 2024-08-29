@@ -14,9 +14,8 @@
 <div class="container">
   <div class="wrapper">
     <div class="banner-image"> </div>
-    <h1> Toyota Supra</h1>
-    <p>Lorem ipsum dolor sit amet,<br/>
-      consectetur adipiscing elit.</p>
+    <h1> Dataprev </h1>
+    <p>Empresa de Tecnologia e Informações da Previdência</p>
   </div>
   <div class="button-wrapper"> 
     <a class="btn outline"href='https://www.dataprev.gov.br/'>DETAILS</button>
