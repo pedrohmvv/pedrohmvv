@@ -14,7 +14,8 @@
 <div class="container">
   <div class="wrapper">
     <div class="banner-image"> </div>
-    <h1> Dataprev </h1>
+    <h2> Dataprev </h2>
+    <img href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTub83pi6idjMqpdbXLnvJdRTw20kqZ3HqJDf9HQhez6V4zSxd85Ao0o0E40B2ayB64zr4&usqp=CAU'><img>
     <p>Empresa de Tecnologia e Informações da Previdência</p>
   </div>
   <div class="button-wrapper"> 
