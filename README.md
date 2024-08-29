@@ -19,8 +19,8 @@
       consectetur adipiscing elit.</p>
   </div>
   <div class="button-wrapper"> 
-    <a class="btn outline"src='https://www.dataprev.gov.br/'>DETAILS</button>
-    <a class="btn fill" src='https://www.dataprev.gov.br/'>BUY NOW</button>
+    <a class="btn outline"href='https://www.dataprev.gov.br/'>DETAILS</button>
+    <a class="btn fill" href='https://www.dataprev.gov.br/'>BUY NOW</button>
   </div>
 </div>
 
