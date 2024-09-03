@@ -9,34 +9,48 @@
 - 🌱 I’m currently learning Machine Learning, Big Data, Data Engeneering...
 - 🔭 I’m looking to collaborate on more Artificial Intelligence Projects.
 
-##
+## **Experiencies**
 
-<div class="container">
-  <div class="wrapper">
-    <div class="banner-image"> </div>
-    <h2> Dataprev </h2>
-    <img href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTub83pi6idjMqpdbXLnvJdRTw20kqZ3HqJDf9HQhez6V4zSxd85Ao0o0E40B2ayB64zr4&usqp=CAU'><img>
-    <p>Empresa de Tecnologia e Informações da Previdência</p>
-  </div>
-  <div class="button-wrapper"> 
-    <a class="btn outline"href='https://www.dataprev.gov.br/'>DETAILS</button>
-    <a class="btn fill" href='https://www.dataprev.gov.br/'>BUY NOW</button>
-  </div>
-</div>
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://www.dataprev.gov.br/)
 
-##
+**Big Data & AI Intern** \
+[**Dataprev**](https://www.dataprev.gov.br/) • Internship \
+Languages & Technologies: `Python`, `Spark`, `Big Data`, `Zeppelin`, `Machine Learning`,\
+Projects: [IDEIA](https://www.dataprev.gov.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
+
+**Data Science Developer and Researcher** \
+[**LEMA**](https://lema.ufpb.br/) \
+Languages & Technologies: `Python`,`Data Science`,`Data Engeneering`,`MongoDB`, `Docker` \
+Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="TAIL" src="https://tail-tech.com/static/media/navbar-logo.ad522a658f6ff3832eae.png"/>](https://nubank.com.br/)
+
+**Developer and Researcher** \
+[**TAIL**](https://tail-tech.com/) • Member (Technology and Artificial Intelligence League) \
+Languages & Technologies: `Python`, `Machine Learning`, `Deep-Learning`, `Sci-kit Learning`, `TensorFlow` \
+Projects: [Projetcs](https://tail-tech.com/#/projetos), [Github](https://github.com/TailUFPB)
+<br/>
+<br/>
+
+## **Stats**
 
 ![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohmvv&show_icons=true&theme=dracula&count_private=true)
 
+## **Skills**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Pedro-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Pedro-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />       
   <img align="center" alt="Pedro-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Pedro-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Pedro-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-  <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>        
+  <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" alt="Pedro-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 </div>
 
 ##
