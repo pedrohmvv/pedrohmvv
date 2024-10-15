@@ -15,7 +15,7 @@
 
 **Big Data & AI Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
-Languages & Technologies: `Python`, `Spark`, `Big Data`, `Zeppelin`, `Machine Learning`,\
+Languages & Technologies: `Python`, `Spark`, `Big Data`, `Natural Language Processing`, `Machine Learning`,\
 Projects: [IDEIA](https://www.dataprev.gov.br/)
 <br/>
 
