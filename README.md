@@ -11,7 +11,7 @@
 
 ## **Experiencies**
 
-[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://www.dataprev.gov.br/)
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://congeps.inss.gov.br/wp-content/uploads/2022/10/Dataprev.png"/>](https://www.dataprev.gov.br/)
 
 **Big Data & ML Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
