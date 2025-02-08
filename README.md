@@ -13,7 +13,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Dataprev" src="https://congeps.inss.gov.br/wp-content/uploads/2022/10/Dataprev.png"/>](https://www.dataprev.gov.br/)
 
-**Big Data & ML Intern** \
+**Data Science Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
 Languages & Technologies: `Python`, `Spark`, `Big Data`, `Natural Language Processing`, `Machine Learning`,\
 Projects: [IDEIA](https://www.dataprev.gov.br/)
@@ -21,7 +21,7 @@ Projects: [IDEIA](https://www.dataprev.gov.br/)
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
 
-**Data Science Developer and Researcher** \
+**Data Scientist and Researcher** \
 [**LEMA**](https://lema.ufpb.br/) \
 Languages & Technologies: `Python`,`Data Science`,`Data Engeneering`,`MongoDB`, `Docker` \
 Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
