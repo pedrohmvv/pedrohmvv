@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Henrique;I'm+20+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👨🏽‍🎓 I'm a Data Science for Business undergraduate, at the Federal University of Paraíba, Brazil.
-- 👔  I am a Big Data and ML Intern at Dataprev, the Company of Technology and Information for Social Security of Brazil. 
+- 👔  I am a Data Science Intern at Dataprev, the Company of Technology and Information for Social Security of Brazil. 
 - 👍 I'm a Artificial Inteligence and Business Intelligence enthusiast, that's why a im a member of the Technology and Artificial Intelligence Academic League of Paraíba.
 - 💻 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality of the Brazilian Federal Government.
 - 🌱 I’m currently learning Machine Learning, Big Data, Data Engeneering...
