@@ -29,7 +29,7 @@ Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precoda
 
 [<img align="left" height="94px" width="94px" alt="TAIL" src="https://tail-tech.com/static/media/navbar-logo.ad522a658f6ff3832eae.png"/>](https://nubank.com.br/)
 
-**ML Developer and Researcher** \
+**Member** \
 [**TAIL**](https://tail-tech.com/) • Member (Technology and Artificial Intelligence League) \
 Languages & Technologies: `Python`, `Machine Learning`, `Deep-Learning`, `Sci-kit Learning`, `TensorFlow` \
 Projects: [Projetcs](https://tail-tech.com/#/projetos), [Github](https://github.com/TailUFPB)
