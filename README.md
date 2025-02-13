@@ -16,7 +16,7 @@
 **Data Science Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
 Languages & Technologies: `Python`, `Spark`, `Big Data`, `Natural Language Processing`, `Machine Learning`,\
-Projects: [IDEIA](https://www.dataprev.gov.br/)
+Projects: [NAVI](https://www.dataprev.gov.br/), [EmpregAI](https://www.dataprev.gov.br/)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
