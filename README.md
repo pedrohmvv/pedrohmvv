@@ -8,41 +8,57 @@
 - 💻 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality of the Brazilian Federal Government.
 - 🌱 I’m currently learning LLMs, AI Engineering, Cloud Computing...
 
-## **Experiencies**
+## **Experience**
+
 [<img align="left" height="94px" width="94px" alt="Dharma-AI" src="https://media.licdn.com/dms/image/v2/D4D0BAQEaClWwfNb-QQ/company-logo_200_200/B4DZYcPDHEHwAM-/0/1744230429554/dharma_ai_logo?e=2147483647&v=beta&t=CEVko0VQX8yDDDGot1qYVseCnSz321tBJ1dkUEcFgzw"/>](https://dharma-ai.com.br/)
 
-**Data Science Intern** \
-[**Dharma-AI**](https://dharma-ai.com.br/) • Internship \
-Languages & Technologies: `Python`, `AWS`, `Langgraph`, `FastAPI`, `LLMs`,\
-Projects: [AI Agents Workflow for AGU](https://dharma-ai.com.br/), [RAG Agent for Sileto](https://dharma-ai.com.br/)
-<br/>
+### **Data Science Intern**  
+[**Dharma-AI**](https://dharma-ai.com.br/) • Internship  
+**Technologies:** `Python`, `AWS`, `LangGraph`, `FastAPI`, `LLMs`  
+**Projects:**  
+- [AI Agents Workflow for AGU](https://dharma-ai.com.br/)  
+- [RAG Agent for Sileto](https://dharma-ai.com.br/)  
 
-[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://dharma-ai.com.br/)
+<br clear="left"/>
 
-**Data Science Intern** \
-[**Dataprev**](https://www.dataprev.gov.br/) • Internship \
-Languages & Technologies: `Python`, `Spark`, `Big Data`, `Natural Language Processing`, `Machine Learning`,\
-Projects: [NAVI](https://convergenciadigital.com.br/governo/apps-da-dataprev-disparam-e-sao-recordistas-do-gov-br/), [EmpregAI](https://www.dataprev.gov.br/)
-<br/>
+---
+
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://www.dataprev.gov.br/)
+
+### **Data Science Intern**  
+[**Dataprev**](https://www.dataprev.gov.br/) • Internship  
+**Technologies:** `Python`, `Spark`, `Big Data`, `NLP`, `Machine Learning`  
+**Projects:**  
+- [NAVI](https://convergenciadigital.com.br/governo/apps-da-dataprev-disparam-e-sao-recordistas-do-gov-br/)  
+- [EmpregAI](https://www.dataprev.gov.br/)  
+
+<br clear="left"/>
+
+---
+
+[<img align="left" height="94px" width="94px" alt="TAIL" src="https://tail-tech.com/static/media/navbar-logo.ad522a658f6ff3832eae.png"/>](https://tail-tech.com/)
+
+### **Director**  
+[**TAIL — Technology and Artificial Intelligence League**](https://tail-tech.com/)  
+**Technologies:** `Python`, `Machine Learning`, `Deep Learning`, `Scikit-learn`, `TensorFlow`  
+**Projects:**  
+- [Projects](https://tail-tech.com/#/projetos)  
+- [GitHub](https://github.com/TailUFPB)  
+
+<br clear="left"/>
+
+---
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
 
+### **Data Scientist & Researcher**  
+[**LEMA — Laboratório de Estudos em Modelagem Aplicada**](https://lema.ufpb.br/)  
+**Technologies:** `Python`, `ETL`, `Airflow`, `MongoDB`, `Docker`  
+**Projects:**  
+- [Plataforma ODS Racial](https://odsr.lema.ufpb.br/)  
+- [Preço da Hora](https://precodahora.tcepb.tc.br/)  
 
-[<img align="left" height="94px" width="94px" alt="TAIL" src="https://tail-tech.com/static/media/navbar-logo.ad522a658f6ff3832eae.png"/>](https://nubank.com.br/)
-
-**Director** \
-[**TAIL**](https://tail-tech.com/) • Member (Technology and Artificial Intelligence League) \
-Languages & Technologies: `Python`, `Machine Learning`, `Deep-Learning`, `Sci-kit Learning`, `TensorFlow` \
-Projects: [Projetcs](https://tail-tech.com/#/projetos), [Github](https://github.com/TailUFPB)
-<br/>
-
-
-**Data Scientist and Researcher** \
-[**LEMA**](https://lema.ufpb.br/) \
-Languages & Technologies: `Python`,`Data Science`,`Data Engeneering`,`MongoDB`, `Docker` \
-Projects: [Plataforma ODS Racial](https://odsr.lema.ufpb.br/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
-<br/>
-<br/>
+<br clear="left"/>
 
 ## **Stats**
 
