@@ -9,13 +9,15 @@
 - 🌱 I’m currently learning LLMs, AI Engineering, Cloud Computing...
 
 ## **Experiencies**
-[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://dharma-ai.com.br/wp-content/uploads/2025/08/Dharma-ai_logo_horizontal-preto01.svg"/>](https://dharma-ai.com.br/)
+[<img align="left" height="94px" width="94px" alt="Dharma-AI" src="https://media.licdn.com/dms/image/v2/D4D0BAQEaClWwfNb-QQ/company-logo_200_200/B4DZYcPDHEHwAM-/0/1744230429554/dharma_ai_logo?e=2147483647&v=beta&t=CEVko0VQX8yDDDGot1qYVseCnSz321tBJ1dkUEcFgzw"/>](https://dharma-ai.com.br/)
 
 **Data Science Intern** \
 [**Dharma-AI**](https://dharma-ai.com.br/) • Internship \
 Languages & Technologies: `Python`, `AWS`, `Langgraph`, `FastAPI`, `LLMs`,\
 Projects: [AI Agents Workflow for AGU](https://dharma-ai.com.br/), [RAG Agent for Sileto](https://dharma-ai.com.br/)
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://dharma-ai.com.br/)
 
 **Data Science Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
@@ -25,18 +27,20 @@ Projects: [NAVI](https://convergenciadigital.com.br/governo/apps-da-dataprev-dis
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
 
-**Data Scientist and Researcher** \
-[**LEMA**](https://lema.ufpb.br/) \
-Languages & Technologies: `Python`,`Data Science`,`Data Engeneering`,`MongoDB`, `Docker` \
-Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="TAIL" src="https://tail-tech.com/static/media/navbar-logo.ad522a658f6ff3832eae.png"/>](https://nubank.com.br/)
 
-**Member** \
+**Director** \
 [**TAIL**](https://tail-tech.com/) • Member (Technology and Artificial Intelligence League) \
 Languages & Technologies: `Python`, `Machine Learning`, `Deep-Learning`, `Sci-kit Learning`, `TensorFlow` \
 Projects: [Projetcs](https://tail-tech.com/#/projetos), [Github](https://github.com/TailUFPB)
+<br/>
+
+
+**Data Scientist and Researcher** \
+[**LEMA**](https://lema.ufpb.br/) \
+Languages & Technologies: `Python`,`Data Science`,`Data Engeneering`,`MongoDB`, `Docker` \
+Projects: [Plataforma ODS Racial](https://odsr.lema.ufpb.br/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
 <br/>
 <br/>
 
