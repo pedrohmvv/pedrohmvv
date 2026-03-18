@@ -23,7 +23,7 @@
 
 ---
 
-[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://www.dataprev.gov.br/sites/default/files/imagens/icon-home/marcadataprev_topo.png"/>](https://www.dataprev.gov.br/)
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://media.licdn.com/dms/image/v2/C4D0BAQGWpaYlhK22cA/company-logo_200_200/company-logo_200_200/0/1649266908446/dataprev_tecnologia_logo?e=2147483647&v=beta&t=-AhltCVjI7ReICFtUB2okuqxv1DKz3GeUhS1NJ7qgdk"/>](https://www.dataprev.gov.br/)
 
 ### **Data Science Intern**  
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship  
@@ -49,7 +49,7 @@
 
 ---
 
-[<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
+[<img align="left" height="94px" width="94px" alt="LEMA" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEVHcEzxcAnqaQn4eAn3dwn3dwj4dwn3dwn4dgbzcwn4cwD3bAD5eQnejnb///7+9vL7tIz3dwnaVAfJMAD4yLH////oZwrNSAv96N76eQnMQwLWclP938/5o3D4hzvKOADnsqPz2NLNSAv4hDHNRwv2YgDNSAvNSAvNSAv1PSxGAAAAKXRSTlMACyNTuf/vneRs/v6A/Pr9/Dn+//z////9w//9/Pz8//z9Q/y9/9qN2+yuvbkAAADpSURBVHgBtdBHYoQwDEBRcEYMyHQQbXqf+58wrsIpy+Rvn6uivykWIv5dPjagS7biB4kUuM03y1AGoQgtx6KsqtJXh9pA2/VEfW2jGmHFZBjHbqISJKI6X+OW3wmjjqiSCAAGIXY4t9qWHdFeKsTDUWHmcBhNp7O61qgymK2J0dVdiA4ItsTi1eNyqszBNkbeWrEBH8uX3hD4WJu3wt2IGAz4Prqv9NLY4RZ85WpspP1DqgDNECLfUx860aTbPx4ac0ah7EKuaVKYRmvXpbgEHTBmMnriuja1xsX30Tes93Hi9dZ0z6L/7hMDAxs0YF5i4gAAAABJRU5ErkJggg=="/>](https://lema.ufpb.br/)
 
 ### **Data Scientist & Researcher**  
 [**LEMA — Laboratório de Estudos em Modelagem Aplicada**](https://lema.ufpb.br/)  
